@@ -14,4 +14,3 @@ searchText.addEventListener("blur", function( event ) {
   search.style.display = 'block';
   langSwitch.style.display = 'block';
 }, true);
-

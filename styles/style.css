@@ -1,9 +1,7 @@
-.page {
-  max-width: 1920px;
-  min-width: 1130px;
-  font-family: Arial, sans-serif;
-}
 
+body{
+  font-family: sans-serif;
+}
 .header {
   min-height: 800px;
   background: url(../images/bgc.jpg) no-repeat;
