@@ -1,3 +1,9 @@
+html[lang="ru"] [lang="en"] {
+  display: none;
+}
+html[lang="en"] [lang="ru"] {
+  display: none;
+}
 
 body{
   font-family: sans-serif;
@@ -537,4 +543,3 @@ body{
   cursor: pointer;
   border: 0;
 }
-/* !footer */
