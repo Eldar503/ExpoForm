@@ -194,20 +194,20 @@
   text-decoration: underline;
 }
 
-.navigation {
+.hero {
   background: #2378FC;
   padding: 75px 0;
   color: white;
 }
 
-.navigation__content {
+.hero__content {
   display: flex;
   margin: 0 auto;
   width: 1115px;
   justify-content: space-between;
 }
 
-.navigation__title {
+.hero__title {
   display: none;
 }
 
@@ -269,11 +269,6 @@
   text-decoration-line: underline;
   color: #FFC41E;
 }
-
-
-/* !navigation */
-
-/* events */
 .events {
   background: #FFC41E;
   color: #2E373B;
